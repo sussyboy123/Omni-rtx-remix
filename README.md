@@ -1,5 +1,9 @@
 # Omni-RTX-Remix   (RTX-FOR-EVERYGAME)
 
+
+FORK OF RTX Remix, Design to run RTX Remix in any game
+
+
 NVIDIA RTX Remix, built on NVIDIA Omniverse, is an end-to-end platform for remastering DirectX 8 and 9 games with fixed function pipelines. NVIDIA RTX Remix enables experienced modders to remaster classic games by upgrading textures with AI, allowing easy replacement of game assets with high fidelity assets built with physically accurate materials, and injecting RTX path tracing, DLSS and Reflex technologies.
 
 RTX Remix consists of two components: an application for creating lights and adding remastered assets into a game scene, and a runtime for capturing classic game scenes, injecting the remastered assets back into the game at playback, and relighting the game with path tracing. The RTX Remix runtime is open source–read about it [here.](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/#:~:text=The%20RTX%20Remix%20runtime%20is,modded%20game%20assets%20at%20runtime.)
